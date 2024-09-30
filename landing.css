@@ -1,0 +1,139 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 25px;
+    }
+    .nav-container{
+        display: flex;
+        gap: 60px;
+        align-items: center;
+    }
+    .section-1{
+        display: flex;
+        margin: 25px 25px;
+        gap: 80px;
+    
+    }
+    .input-submit-button{
+        flex: 1;
+    }
+    .img-container{
+        flex: 1;
+    }
+    .get-started-button{
+        padding: 8px 10px;
+        color: white;background-color: blue;
+        border: none;
+        border-radius: 4px;
+        font-weight: 500;
+        font-size: 15px;
+
+
+    }
+    .input-filed{
+        padding: 4px 45px;
+        font-weight: 500;
+        font-size: 15px;
+    }
+    .section-2{
+        display: flex;
+        margin: 25px 25px;
+        gap: 120px;
+    
+    }
+    .para-container{
+        flex: 1;
+    }
+    .img-container-2{
+        flex: 1;
+    }
+    .section-3{
+        background-color: white;
+        border-radius: 10px;
+      max-width: 350px;height: 200px;
+      margin: 25px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    }
+    .image{
+        margin: 0;
+        font-size: small;
+    }
+    .author{
+        display: flex;
+        align-items: center;
+        margin-top: 18px;
+    }
+    
+    .author img{
+        border-radius: 50%;
+        width: 35px; height: 35px;
+        margin-right: 10px;
+    }
+
+
+    .cta-section {
+        padding: 40px;
+        background-color: grey;
+
+    }
+
+
+    .cta-section-container {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+       color: black;
+
+    }
+    .cta-section-container p {
+        color: black;
+        margin-top: 10px;
+    }
+
+
+footer {
+        padding-block: 90px;
+        background-color: darkblue;
+
+    }
+
+    .footer-container {
+        padding: 10px 20px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    
+    }
+
+
+ 
+.footer-container .link-column {
+flex-direction: column;
+ display: flex;
+ justify-content: space-between;
+ align-items: flex-start;
+   gap: 20px;
+
+    }
+
+    .logo img {
+        padding: 40px;
+        width: 150px;
+
+    }
+
+   
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
