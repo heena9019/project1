@@ -35,6 +35,9 @@
         font-weight: 500;
         font-size: 15px;
     }
+     
+
+
     .section-2{
         display: flex;
         margin: 25px 25px;
@@ -91,8 +94,8 @@
     }
 
 
-footer {
-        padding-block: 90px;
+ footer {
+        /* padding-block: 90px; */
         background-color: darkblue;
 
     }
@@ -121,6 +124,9 @@ flex-direction: column;
         width: 150px;
 
     }
+
+
+    
 
    
 
